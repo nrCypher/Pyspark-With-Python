@@ -1,0 +1,6 @@
+numero_venda,data_venda,produto,quantidade,preco_unitario
+1,2024-03-20,Caneta,100,1.5
+2,2024-03-20,Lápis,50,0.75
+3,2024-03-21,Borracha,20,0.5
+4,2024-03-21,Caderno,10,3.25
+5,2024-03-22,Agenda,15,4.75
